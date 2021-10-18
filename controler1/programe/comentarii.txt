@@ -1,0 +1,9 @@
+Contorul divizor al ceasului vreau sa divizeze pina la o secunda.
+Pentru frecventa de 50MHz am nevoie de 2**26  = 67 108 864
+Merge prea repede!
+De fapt trebuie sa fie 2**34 (33 to 0) 2**34 = 17 179 869 184 adica aprox. 17 180 : 50 = 343,6 ?! si asta pentru ca adresa are 8 biti si schimbarea trebuie sa se faca pentru cei 8 biti... in fine.....
+
+Programul realizeaza urmatorul lucru:
+Daca citeste din memorie (la o secunda) un numar par afiseaza pe led 10101010
+Daca citeste din memorie (la o secunda) un numar impar afiseaza pe led 11110000
+
