@@ -1,0 +1,276 @@
+﻿Instructiuni:
+
+nop               :  0 - nu face nimic
+movla nr8     :  1 - valoarea urmatoare este scrisa in acumulator
+addla nr8      :  2 - aduna continutul acumulatorului cu cifra
+                                       urmatoare -> rezultatul in acumulator
+                                       pozitioneaza ZF si CF
+jmp adr8        :  3 - salt la adresa data de valoarea urmatoare
+movaf adr8   :  4 - scrie continutul acumulatorului la adresa data
+                                      de locatia imediat urmatoare
+movfa adr8   :  5 - scrie continutul de la adresa data de locatia
+ 	       	       imediat urmatoare in acumulator
+jpz adr8	     :  6 - salt la adresa imediat urmatoare daca ZF = 1,
+	       	       (continut acumulator este zero) iar daca ZF = 0
+	       	       atunci continua cu instructiunea imediat 
+	       	       urmatoare dupa adresa
+jpc adr8	     :  7 - salt la adresa imediat urmatoare daca CF = 1,
+	       	       (nu exista depasire) iar daca CF = 0
+	       	       atunci continua cu instructiunea imediat 
+	       	       urmatoare dupa adresa
+jpnz adr8       :  8 - salt daca ZF = 0
+jpnc adr8       :  9 - salt daca CF = 0
+subla nr8      : 10 - scade din continutul acumulatorului cifra
+	       	       urmatoare -> rezultatul in acumulator
+	       	       pozitioneaza ZF si CF
+addfa adr8    : 11 - aduna continutul registrului f la continutul
+	       	       acumulatorului iar rezultatul se pune in
+	       	       acumulator
+	       	       pozitioneaza ZF si CF
+subfa adr8    : 12 - scade continutul registrului f din continutul
+	       	       acumulatorului iar rezultatul se pune in
+	       	       acumulator
+	       	       pozitioneaza ZF si CF
+incf adr8	     : 13 - incrementeaza cu 1 continutul registrului f a
+	       	       a carui adresa este dupa instructiune
+		       pozitioneaza ZF si CF
+decf adr8	     : 14 - decrementeaza cu 1 continutul registrului f a
+	       	       a carui adresa este dupa instructiune
+		       pozitioneaza ZF si CF
+call adr8       : 15 - apelul subprogramului de la adresa aflata dupa
+		       instructiune
+ret                 : 16 - reintoarcere din subprogram
+callz adr8      : 17 - apeleaza subprogramul de la adresa imediat urmatoare
+		     daca ZF = 1 (continut acumulator este zero) iar daca
+		     ZF = 0 atunci continua cu instructiunea imediat 
+	       	      urmatoare dupa adresa
+callnz adr8    : 18 - apeleaza subprogramul de la adresa imediat urmatoare
+		      daca ZF = 0 (continut acumulator este diferit de zero)
+		      iar daca ZF = 0 atunci continua cu instructiunea imediat 
+	       	      urmatoare dupa adresa
+callc adr8      : 19 - apeleaza subprogramul de la adresa imediat urmatoare
+		     daca CF = 1 (exista o depasire) iar daca CF = 0 atunci
+ 		     continua cu instructiunea imediat urmatoare dupa adresa
+callnc adr8    : 20 - apeleaza subprogramul de la adresa imediat urmatoare
+		     daca CF = 0 (nu exista o depasire) iar daca CF = 1
+ 		     atunci continua cu instructiunea imediat urmatoare dupa
+		     adresa
+andla nr8      : 21 - SI intre acumulator si nr8. Rezultatul in acumulator.
+		      Afectate cf si zf
+orla nr8	     : 22 - SAU intre acumulator si nr8. Rezultatul in acumulator.
+		      Afectate cf si zf
+andfa adr8    : 23 - SI intre acumulator si continutul locatiei de la adr8.
+                 	       Rezultatul in  acumulator. Afectate cf si zf
+orfa adr8	      : 24 - SAU intre acumulator si continutul locatiei de la adr8.
+                                       Rezultatul in acumulator. Afectate cf si zf
+xorla nr8	      : 25 - SAU exclusiv intre acumulator si nr8. Rezultatul in
+                                       acumulator. Afectate cf si zf
+xorfa adr8      : 26 - SAU exclusiv intre acumulator si continutul locatiei de
+                                       la adr8.Rezultatul in acumulator. Afectate cf si zf
+nega	      : 27 - neaga acumulator. Afectate cf si zf
+rlca	      : 28 - rotire la stinga a acumulatorului cu cf.
+		       cf <= bit 7 (MSb) si bit 0 (LSb) <= cf anterior !!!!!!!
+		       Afectate cf si zf
+rrca	      : 29 - rotire la dreapta a acumulatorului cu cf
+		       cf anterior !!!!!!! => bit 7 (MSb)  si bit 0 (LSb) => cf
+		       Afectate cf si zf
+outa nr8	      : 30 - Trimite la port iesir numar nr8 continutul 
+                                       acumulatorului.
+ina nr8	      : 31 - Citeste de la portul nr8 datele in acumulator.
+		       Daca se citeste port 6 se modifica si cf
+ 		       stare interfata seriala cf <= rx_empty 
+		       adica cf = 1 bufer gol si cf = 0 bufer contine caracter receptionat
+
+page nr5        : 32 - Comuta la o pagina de memorie de 256 octeti. 
+                                       Numarul paginilor este: 0 ... 31 pentru o
+                                       memorie de 8 ko. La comutarea in pagina noua
+                                       contorul de program = 0.
+movcaf adr8  : 33 -  Scrie in pagina selactata cu outa 7 la adresa nr8 continutul 
+		       acumulatorului.
+                                       Pagina selectata este accesibila astfel in toate celelalte 
+                                       pagini.
+movcfa adr8  : 34 - Scrie in acumulator continutul adresei nr8 din pagina 
+		       selactata cu out 7.
+                                       Pagina 31 este accesibila astfel in toate celelalte 
+                                       pagini.
+----------------------------------------------
+35 la 41 inclusiv rezervat pentru intreruperi
+----------------------------------------------
+reti_0	      : 42 - reintoarcere din intrerupere - este ret in plus cu
+		       reactivarea intreruperii 0
+reti_1	      : 43 - reintoarcere din intrerupere - este ret in plus cu
+		       reactivarea intreruperii 1
+reti_2	      : 44 - reintoarcere din intrerupere - este ret in plus cu
+		       reactivarea intreruperii 2
+reti_3	      : 45 - reintoarcere din intrerupere - este ret in plus cu
+		       reactivarea intreruperii 3
+reti_4	      : 46 - reintoarcere din intrerupere - este ret in plus cu
+		       reactivarea intreruperii 4
+reti_5	      : 47 - reintoarcere din intrerupere - este ret in plus cu
+		       reactivarea intreruperii 5
+reti_6	      : 48 - reintoarcere din intrerupere - este ret in plus cu
+		       reactivarea intreruperii 6
+--------------------------------------
+savecz adr8   : 49 - salveaza indicatorii de conditii cf si zf in locatia
+		       de memorie adr8. cf - bit 7, zf - bit 6
+restcz adr8     : 50 - restaureaza indicatorii de conditii cf si zf din
+		       locatia de memorie adr8.
+==========================================================
+NOTA regulile sunt:
+- expresiile de la operand se scriu fara spatii, exemplu:
+  sir+5 = corect iar sir + 5 gresit !!!!!
+  Operatiile posibile sunt: + (adunare) si - (scadere)
+- etichetele pot fi sau nu terminate cu ":"
+- e bine ca etichetele sa fie scrise pe rind separat dar
+  am verificat si merge eticheta pe acelasi rind cu mnemonicul
+- sirurile incep cu " ' " (ghilimele simple) si se pot termina cu " ' "
+- operanzi sir pot avea directivele db sau mnemonicile cu
+  literal (movla, addla, subla, andla, orla, xorla) - in cazul mnemonicilor
+  se ia in considerare numai primul caracter din sir.
+==========================================================
+Pentru UART setarile sunt: 19200 1N8 fara protocol
+0 Bits per second:   9600 -> SPARTAN 3E
+0 Bits per second: 19200 -> SPARTAN 6
+0 Data bits: 8
+0 Parity: None
+0 Stop bits: 1
+0 Flow control: None
+===========================================================
+Pentru Timer frecventa ceasului este de;
+0 190 Hz daca se foloseste: 20_05_2015-boot1-test9_20_top.bit
+0  0,4 Hz daca se foloseste: 19_05_2015-boot1-test9_20_top.bit
+===========================================================
+
+Porturi intrare
+===========================================
+numar port	nume simbolic	semnificatie
+===========================================
+0 		btn 		butoane (4 butoane)
+1		sw 		Switch (8 comutatoare)
+------------
+5		timer 		valoare contor
+------------
+6 		uart		citire de la interfata seriala
+     stare interfata seriala cf <= rx_empty 
+     adica cf = 1 bufer gol si cf = 0 bufer contine caracter receptionat
+------------
+255		int_act		 validare intrerupere 
+    (1 - intrerupere activata, 0 - intrerupere dezactivata)
+-----------------------------------------------------------------------------------
+
+Porturi iesire
+===========================================
+numar port	nume simbolic	semnificatie
+===========================================
+0 		 led 		8 led-uri
+---------------------
+afisaj 7 segmente (se iau in considerare 4 cele mai putin semnificative cifre ale portului 
+- cele 4 cifre cele mai semnificative nu se iau in considerare)
+1 		sseg_m 		 minute
+2 		sseg_tm   	zeci minute
+3		sseg_h    		ore
+4 		sseg_th   		zeci ore
+---------------
+5 		 timer		scriere constanta pentru contor
+---------------
+6 		uart		scriere in interfata seriala
+---------------
+7 		page		scriere pagina selectata pentru lucrul cu instructiunile:
+movcaf adr8  :  Scrie in pagina selactata cu outa 7 la adresa nr8 continutul 
+	         acumulatorului.
+                         Pagina selectata este accesibila astfel in toate celelalte 
+                         pagini.
+movcfa adr8  :  Scrie in acumulator continutul adresei nr8 din pagina 
+	         selactata cu out 7.
+                         Pagina selactata este accesibila astfel in toate celelalte 
+                         pagini.
+----------------
+255		int_act		stare intrerupere (1 - intreruperea activata, 0 - intreruperea dezactivata)
+----------------------------------------------------------------------------------
+NOTA: numele de dupa numarul portului (btn, sw,timer etc) sunt nume simbolice care
+pot fi folosite in program (claritatea programului va fi mai mare).
+NOTA: Pentru modificarea valorilor porturilor, valoare receptionata, valoare emisa
+din simulator se va folosi tehnica copy-paste. Asta din cauza ca la orice modificare
+in TextBox se produce actiunea. Pentru ca modificarea sa se poata face pentru
+mai multe caractere simultan, se foloseste copy inregul grup de caractere si
+paste in TextBox.
+
+
+Intreruperi
+============
+adresa   2 -> intreruperea 0 - timer
+adresa   4 -> intreruperea 1 - data_serial_receptionata
+adresa   6 -> intreruperea 2
+adresa   8 -> intreruperea 3
+adresa 10 -> intreruperea 4
+adresa 12 -> intreruperea 5
+adresa 14 -> intreruperea 6
+============
+Structura programului:
+adresa	instructiune
+0	jmp start
+2	jmp intrerupere_timer
+4	jmp intrerupere_uart
+6	jmp intrerupere 2
+8	jmp intrerupere 3
+10	jmp intrerupere 4
+12	jmp intrerupere 5
+14	jmp intrerupere 6
+16	inceput:
+.............................................
+....... Programul principal ......
+.............................................
+STIVA PROGRAMULUI
+--------------
+NOTA: daca intreruperile nu sunt activate nu sunt necesare instructiunile jmp
+La sfirsitul paginii in sens descrescator sunt salvate valorile in stiva. Din acest motiv
+daca sunt apeluri de subprograme atunci trebuie atentie la lungimea programului ca
+sa nu se suprapuna peste stiva.
+==========================================================
+Cind porneste microcontrolerul Dan, acesta executa programul din pagina 0 de la
+adresa 0. Pagina se comuta cu instructiunea: page. Pentru transferul informtiei
+intre pagini se foloseste instructiunea: movcwf adresa8 si se citeste cu movcfw adresa8
+din oricare pagina de la 0 la 30.
+In aceste pagini pot fi si programe, scrise din alta pagina cu instructiunea:
+movcwf adresa8. Programele pot fi scrise aici si transferate in alta parte cu
+instructiunea: movcfw adresa8 sau pot fi transferate din alta pagina aici.
+La schimbarea paginii executia incepe de la adresa zero din noua pagina. 
+Programele nu se modifica de la mutarea dintr-o pagina in alta deoarece in
+fiecare pagina adresele sunt aceleasi: de la zero la 255.
+NOTA: toate programele din toate paginile trebuie puse incepind cu adresa zero.
+
+DIRECTIVELE ASAMBLORULUI
+===========================
+#include<nume.inc> - se scrie incepand din prima coloana si permite includerea
+     simbolurilor dintr-o pagina de memorie diferita, asamblata anterior.
+db nr8 - directiva define byte pentru rezervarea in memorie a informatiei.
+     nr8 poate fi o cifra cu valoare maxima egala cu 255 sau un sir ascii.
+     Directiva db trebuie scrisa intr-o coloana diferita de prima coloana.
+eticheta equ nr8 - atribuirea unei valori numerice etichetei respective.
+     nr8 poate nu poate fi decit o cifra cu valoare maxima egala cu 255.
+
+CARACTERE ASCII
+=================
+Operanzii literali pot fi si caractere ascii. Acestia se scriu:
+movla 'd' sau movla 'd
+db 'a' sau db 'a
+db '\r' sau db '\r
+Pentru caractere speciale se foloseste prefixarea cu caracterul: \
+caracterul backslash nu poate fi urmat decit de un singur caracter.
+Exemple:
+'\0' - sfarsit sir de caractere (\zero) - null = cod 0
+'\5' = cod 5 fata de '5' = cod 53
+'\n' - introduce caracterul linie noua = cod 10
+'\r' - introduce caracterul retur de car (rind nou) = cod 13
+- utilizare:'\x' sau '\x unde x e un caracter ascii oarecare diferit de
+  cele de mai sus, introduce codul ascii al caracterului x la fel ca si
+  'x' sau 'x.
+
+FISIERE GENERATE DE ASAMBLOR
+===============================
+nume.txt - numele fisierului de asamblat
+
+- nume_ini.coe - fisierul cu coduri (fisierul asamblat)
+- nume.lst - fisierul listing
+- nume.inc - fisierul cu simboluri (etichete) pentru inclus
+============================// sfirsit //==================================

@@ -1,0 +1,63 @@
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.exe.config
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.exe
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.pdb
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.xml
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form2.resources
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form3.resources
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form4.resources
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form5.resources
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form6.resources
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Resources.resources
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.vbproj.GenerateResource.Cache
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.exe
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.xml
+C:\SkyDrive\Dan\Documents\Work now temp\teste_visual_studio 24.11.2014\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.pdb
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.exe.config
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.exe
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.xml
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.pdb
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.exe
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.pdb
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.xml
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form1.resources
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form2.resources
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form3.resources
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form4.resources
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form5.resources
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form6.resources
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Resources.resources
+E:\teste_visual_studio\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.vbproj.GenerateResource.Cache
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.exe.config
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.exe
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.xml
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.pdb
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.exe
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.pdb
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.xml
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form1.resources
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form2.resources
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form3.resources
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form4.resources
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form5.resources
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form6.resources
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Resources.resources
+C:\Users\C8\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.vbproj.GenerateResource.Cache
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.exe.config
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.exe
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.xml
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.pdb
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.exe
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.pdb
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.xml
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form1.resources
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form2.resources
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form3.resources
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form4.resources
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form5.resources
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Form6.resources
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.Resources.resources
+E:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.vbproj.GenerateResource.Cache
+C:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\Asamblor_Dan_3_1.exe.config
+C:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.exe
+C:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.xml
+C:\Dropbox\Lucru\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\obj\Debug\Asamblor_Dan_3_1.pdb

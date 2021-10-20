@@ -1,0 +1,77 @@
+E:\teste_visual_studio\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe.config
+E:\teste_visual_studio\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe
+E:\teste_visual_studio\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.pdb
+E:\teste_visual_studio\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.xml
+E:\teste_visual_studio\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Form1.resources
+E:\teste_visual_studio\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Resources.resources
+E:\teste_visual_studio\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.vbproj.GenerateResource.Cache
+E:\teste_visual_studio\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.exe
+E:\teste_visual_studio\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.xml
+E:\teste_visual_studio\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.pdb
+E:\teste_visual_studio\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Form2.resources
+C:\Users\C8\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe.config
+C:\Users\C8\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.exe
+C:\Users\C8\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.xml
+C:\Users\C8\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.pdb
+C:\Users\C8\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe
+C:\Users\C8\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.pdb
+C:\Users\C8\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.xml
+C:\Users\C8\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Form1.resources
+C:\Users\C8\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Form2.resources
+C:\Users\C8\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Resources.resources
+C:\Users\C8\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.vbproj.GenerateResource.Cache
+E:\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe.config
+E:\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.exe
+E:\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.xml
+E:\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.pdb
+E:\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe
+E:\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.pdb
+E:\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.xml
+E:\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Form1.resources
+E:\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Form2.resources
+E:\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Resources.resources
+E:\Dropbox\Lucru\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.vbproj.GenerateResource.Cache
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe.config
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.exe
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.xml
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.pdb
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.pdb
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.xml
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.vbprojResolveAssemblyReference.cache
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Form1.resources
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Form2.resources
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Resources.resources
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.vbproj.GenerateResource.Cache
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe.config
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.exe
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.xml
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.pdb
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru2\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe.config
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru2\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.exe
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru2\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.xml
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru2\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.pdb
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru2\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru2\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.pdb
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru2\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.xml
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru2\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.vbprojResolveAssemblyReference.cache
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru2\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Form1.resources
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru2\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Form2.resources
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru2\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Resources.resources
+C:\Users\Dan\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan - lucru2\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.vbproj.GenerateResource.Cache
+C:\Users\C8\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe.config
+C:\Users\C8\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.exe
+C:\Users\C8\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.xml
+C:\Users\C8\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.pdb
+C:\Users\C8\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe
+C:\Users\C8\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.pdb
+C:\Users\C8\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.xml
+C:\Users\C8\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.vbprojResolveAssemblyReference.cache
+C:\Users\C8\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Form1.resources
+C:\Users\C8\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Form2.resources
+C:\Users\C8\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.Resources.resources
+C:\Users\C8\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.vbproj.GenerateResource.Cache
+C:\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\bin\Debug\Interfata_seriala_Dan_1.exe.config
+C:\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.exe
+C:\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.xml
+C:\Dropbox\Lucru microcontroler Dan\Interfata seriala_Dan\Interfata_seriala_Dan_1\Interfata_seriala_Dan_1\obj\Debug\Interfata_seriala_Dan_1.pdb

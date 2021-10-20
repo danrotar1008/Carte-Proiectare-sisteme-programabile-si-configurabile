@@ -1,0 +1,5 @@
+Fisierul: help.txt este aici pentru ca apartine proiectului. De aici poate fi modificat si actualizat. Dupa aceea trebuie copiat si in directorul:
+
+c:\Users\Dan\Dropbox\Lucru microcontroler Dan\Asamblor_Dan_3_1\Asamblor_Dan_3_1\Asamblor_Dan_3_1\bin\Debug\
+
+pentru a fi vazut de program in executie si afisat. Am facut aceasta modificare pentru a putea folosi instructiunea: Path.GetFullPath("help.txt")
