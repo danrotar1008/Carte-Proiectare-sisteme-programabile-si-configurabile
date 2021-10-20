@@ -1,0 +1,115 @@
+# Fisierul constingerilor utilizator
+# Compatibil cu placa Digilent Basys
+# Este descrisa placa in intregime
+# Pentru folosire se scot pinii FPGA SPARTAN 3E care nu se folosesc
+# iar "NUME_SEMNAL" se inlocuieste cu numele semnalului din schema
+# semnalul de ceas se numeste "CLOCK" si trebuie sa coincida cu
+# numele semnalului de ceas din schema
+
+# Intrarea de ceas (50 MHz)
+
+NET "clk" TNM_NET = CLOCK;
+TIMESPEC TS_CLOCK = PERIOD "CLOCK" 20 ns HIGH 50 %;
+NET "clk" LOC = P54;
+
+# Iesiri pe LED
+
+NET "led<7>" LOC = P2;	# LD7
+NET "led<6>" LOC = P3;	# LD6
+NET "led<5>" LOC = P4;	# LD5
+NET "led<4>" LOC = P5;	# LD4
+NET "led<3>" LOC = P7;	# LD3
+NET "led<2>" LOC = P8;	# LD2
+NET "led<1>" LOC = P14;	# LD1
+NET "led<0>" LOC = P15;	# LD0
+
+# Intrari Slide Switches (comutator intre valorile = "0" si "1")
+
+NET "sw<7>" LOC = P6;	# SW7
+NET "sw<6>" LOC = P10;	# SW6
+NET "sw<5>" LOC = P12;	# SW5
+NET "sw<4>" LOC = P18;	# SW4
+NET "sw<3>" LOC = P24;	# SW3
+NET "sw<2>" LOC = P29;	# SW2
+NET "sw<1>" LOC = P36;	# SW1
+NET "sw<0>" LOC = P38;	# SW0
+
+# Intrari Push Buttons (butoane = neapasat = "0" si apasat = "1")
+
+NET "btn<2>" LOC = P41;	# BTN3
+NET "btn<1>" LOC = P47;	# BTN2
+NET "btn<0>" LOC = P48;	# BTN1
+NET "btn_reset" LOC = P69;	# BTN0
+# ATENTZIE !!! Fatza de varianta NEXIS3, lipseste btn<3>
+
+# 7seg Display
+
+# iesiri comanda celula
+
+NET "anod<3>" LOC = P26;	# AN3
+NET "anod<2>" LOC = P32;	# AN2
+NET "anod<1>" LOC = P33;	# AN1
+NET "anod<0>" LOC = P34;	# AN0
+
+# iesiri comanda segment
+
+NET "segment<7>" LOC = P22;	# DP
+NET "segment<0>" LOC = P83;	# CG
+NET "segment<1>" LOC = P17;	# CF
+NET "segment<2>" LOC = P20;	# CE
+NET "segment<3>" LOC = P21;	# CD
+NET "segment<4>" LOC = P23;	# CC
+NET "segment<5>" LOC = P16;	# CB
+NET "segment<6>" LOC = P25;	# CA
+
+# PS/2 connector
+
+#NET "NUME_SEMNAL" LOC = P96;	# iesire CLK
+#NET "NUME_SEMNAL" LOC = P97;	# bidirectional DATA
+
+# Iesiri VGA port
+
+#NET "NUME_SEMNAL" LOC = P78;	# RED0
+#NET "NUME_SEMNAL" LOC = P68;	# RED1
+#NET "NUME_SEMNAL" LOC = P67;	# RED2
+#NET "NUME_SEMNAL" LOC = P52;	# GRN0
+#NET "NUME_SEMNAL" LOC = P51;	# GRN1
+#NET "NUME_SEMNAL" LOC = P50;	# GRN2
+#NET "NUME_SEMNAL" LOC = P44;	# BLUE0
+#NET "NUME_SEMNAL" LOC = P43;	# BLUE1
+#NET "NUME_SEMNAL" LOC = P39;	# HS
+#NET "NUME_SEMNAL" LOC = P35;	# VS
+
+# Expansion Connectors
+
+# JA
+
+NET "port_intrare1<0>" LOC = P81;	# 1 I/O pin
+NET "port_intrare1<1>" LOC = P91;	# 2 I/O pin
+NET "port_intrare1<2>" LOC = P82;	# 3 I/O pin
+NET "port_intrare1<3>" LOC = P92;	# 4 I/O pin
+# ATENTZIE !!! Fatza de varianta NEXIS3, lipseste port_intrare1<4>, port_intrare1<5>, port_intrare1<6>, port_intrare1<7>
+
+# JB
+
+NET "port_iesire1<0>" LOC = P87;	# 1 I/O pin
+NET "port_iesire1<1>" LOC = P93;	# 2 I/O pin
+NET "port_iesire1<2>" LOC = P88;	# 3 I/O pin
+NET "port_iesire1<3>" LOC = P94;	# 4 I/O pin
+# ATENTZIE !!! Fatza de varianta NEXIS3, lipseste port_iesire1<4>, port_iesire1<5>, port_iesire1<6>, port_iesire1<7>
+
+# JC
+
+NET "port_in_out1<0>" LOC = P77;	# 1 I/O pin
+NET "port_in_out1<1>" LOC = P86;	# 2 I/O pin
+NET "port_in_out1<2>" LOC = P76;	# 3 I/O pin
+NET "port_in_out1<3>" LOC = P85;	# 4 I/O pin
+
+# JD
+
+#NET "NUME_SEMNAL" LOC = P75;	# 1 I/O pin
+#NET "NUME_SEMNAL" LOC = P59;	# 2 I/O pin
+NET "rx" LOC = P74;	# 3 I/O pin rxd
+NET "tx" LOC = P58;	# 4 I/O pin txd
+
+# END

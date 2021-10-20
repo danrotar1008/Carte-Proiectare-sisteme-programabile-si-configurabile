@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/LUCRU/controler_uc/script/uc_top_TB_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_textio" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="textio" />
+            <top_module name="uc_top_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/uc_top_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/btn_reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">btn_reset</obj_property>
+      <obj_property name="ObjectShortName">btn_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/sw" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sw[7:0]</obj_property>
+      <obj_property name="ObjectShortName">sw[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/btn" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">btn[3:0]</obj_property>
+      <obj_property name="ObjectShortName">btn[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/port_intrare1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">port_intrare1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">port_intrare1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/rx" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rx</obj_property>
+      <obj_property name="ObjectShortName">rx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/anod" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">anod[3:0]</obj_property>
+      <obj_property name="ObjectShortName">anod[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/segment" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">segment[7:0]</obj_property>
+      <obj_property name="ObjectShortName">segment[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/led" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">led[7:0]</obj_property>
+      <obj_property name="ObjectShortName">led[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/tx" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">tx</obj_property>
+      <obj_property name="ObjectShortName">tx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/uut/dout_ram" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dout_ram[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dout_ram[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/uut/acumulator" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">acumulator[8:0]</obj_property>
+      <obj_property name="ObjectShortName">acumulator[8:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/uut/contor_program" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">contor_program[7:0]</obj_property>
+      <obj_property name="ObjectShortName">contor_program[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/uc_top_tb/uut/instructiune" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">instructiune[7:0]</obj_property>
+      <obj_property name="ObjectShortName">instructiune[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
