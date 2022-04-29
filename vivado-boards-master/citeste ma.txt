@@ -1,0 +1,7 @@
+
+
+url: https://github.com/Digilent/vivado-boards
+
+Se de arhivează acest fișier și conținutul directorului: ”new\board_files” este copiat în directorul ”opt:/Xilinx/Vivado/<version>/data/boards/board_files” unde ”opt:” reprezintă discul pe care a fost instalat Vivado iar <version> versiunea acestuia. Dacă directorul nu există atunci acesta se creează.
+
+
